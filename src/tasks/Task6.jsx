@@ -6,7 +6,7 @@ export class Task6 extends React.Component {
       <div>
         <AboutMe
           FIO="Kuzybakhova Nargiza"
-          Phone="87082694417"
+          Phone="87082690000"
           Email="kuzybakhovanargiza@gmail.com"
           City="Astana"
           Experience="1"
