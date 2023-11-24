@@ -1,0 +1,49 @@
+*{
+    background: seashell;
+}
+
+ .biog p{
+font-size:15px;
+}
+.container h2{
+   text-align: center;
+font-size: 25px;
+}
+.container hr{
+    width: 1500px;
+    margin-right:100px;
+}
+.container p{
+    margin-left:20px;
+    margin-right:20px;
+    font-size: 20px;
+}
+.container img{
+    margin-top:30px;
+    width:150px;
+    height: 250px;
+}
+.Work{
+    margin-top:25px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+.container strong{
+    font-size: 30px;
+}
+#shortDesc{
+    width:430px;
+}
+.cardOfWork{
+    margin-top:25px;
+    margin-bottom: 50px;
+    margin-left:30px;
+    margin-right: 30px;
+    border:2px black solid;
+    float:left;
+    border-radius: 15px;
+    height: 750px;
+}
+.cardOfWork strong{
+    font-size: 17px;
+}
